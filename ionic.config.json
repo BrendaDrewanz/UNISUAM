@@ -1,0 +1,7 @@
+{
+  "name": "AF1",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
